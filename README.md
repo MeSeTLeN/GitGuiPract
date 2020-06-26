@@ -1,0 +1,2 @@
+# GitGuiPract
+sublime merge
