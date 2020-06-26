@@ -1,3 +1,4 @@
 # GitGuiPract
 sublime merge
-hi max
+hi maks
+what about merge with conflict?
