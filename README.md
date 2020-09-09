@@ -4,4 +4,4 @@ and i wanna add text from master branch to backstage branch
 what about merge with conflict?
 heres will be some new info in master
 
-rename commits with already existed branches from them 1 2 3
+rename commits with already existed branches from them 1 2 3 4
